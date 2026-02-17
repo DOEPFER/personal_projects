@@ -1,0 +1,13 @@
+[project]
+name = "librarian"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=2.0.10",
+    "fastapi>=0.117.1",
+    "mcp>=1.15.0",
+    "openai>=1.109.1",
+    "sqlalchemy>=2.0.43",
+]
